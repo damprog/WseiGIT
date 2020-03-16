@@ -11,5 +11,6 @@ int main() {
     cout << "\nDoskonale!!!\n";
     cout << "Teraz mozna cos wybrac i zdobyc nowe doswiadczenia... :)\n";
     cout << "Powodzenia!\n\n";
+    cout << "Commit w ramach Slack";
     return 0;
 }
