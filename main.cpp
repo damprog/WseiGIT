@@ -9,5 +9,6 @@ int main() {
     cout << "\nPodaj 5 przykladow takich czynnosci, a bede Ci wdzieczny :)"<< endl << endl;
     przyklady();
     cout << "\nSwietne pomysly!!!";
+    cout << "Na potrzeby Slack";
     return 0;
 }
