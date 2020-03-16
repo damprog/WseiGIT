@@ -10,5 +10,6 @@ int main() {
     przyklady();
     cout << "\nSwietne pomysly!!!\n";
     cout << "Teraz mozna cos wybrac i zdobyc nowe doswiadczenia... :)\n\n";
+    cout << "Powodzenia!";
     return 0;
 }
