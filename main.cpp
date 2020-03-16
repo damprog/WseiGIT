@@ -1,11 +1,12 @@
 #include <iostream>
 #include <windows.h>
-#include <funkcje.h>
+#include "funkcje.h"
 using namespace std;
 int main() {
-    cout << "Hello, World!" << endl;
-    cout << "Przeżywamy trudny okres epidemii..\n W tych trudnych chwilach powinniśmy spędzaczas w domu. Z tego powodu proszę o podanie 5 przykładow co mozna robic zeby czas szybciej mijal...";
-    cout << "\n Podaj 5 przykladow takich czynnosci a bede ci wdzieczny :)";
+    cout << "--------------------------------------------------------------------------------------------------------------------------";
+    cout << endl <<"Hello, World!";
+    cout << "\n\nPrzeżywamy trudny okres epidemii..\nW tych trudnych chwilach powinniśmy spędzac czas w domu. Z tego powodu proszę o podanie 5 przykładow, co mozna robic zeby czas szybciej mijal...";
+    cout << "\nPodaj 5 przykladow takich czynnosci, a bede Ci wdzieczny :)"<< endl << endl;
     przyklady();
     return 0;
 }
